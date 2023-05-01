@@ -1,0 +1,13 @@
+p {
+    color: navy;
+    background-color: gainsboro;
+}
+h1{
+    color: yellow;
+    background-color: black;
+}
+h2{
+    color: aqua;
+    background-color: grey;
+    width: 40%;
+}
